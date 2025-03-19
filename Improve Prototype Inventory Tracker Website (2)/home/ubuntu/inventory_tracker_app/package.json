@@ -1,0 +1,19 @@
+{
+  "name": "inventory_tracker_app",
+  "version": "1.0.0",
+  "description": "Improved inventory management system for tracking liquor and storage inventory",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": ["inventory", "management", "liquor", "tracking", "barcode"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
