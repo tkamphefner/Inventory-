@@ -1,0 +1,7 @@
+name = "inventory-tracker"
+compatibility_date = "2023-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "inventory_tracker_db"
+database_id = "inventory-tracker-db"
